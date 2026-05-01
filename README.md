@@ -14,9 +14,15 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 -   💻 I’m currently working as **DevOps Engineer**
 -   🏅 **Microsoft MVP** since 2022
 -   📝 I regularly write articles on (http://www.unicast.com.br)
--   💬 Ask me about Microsoft Azure, Terraform, Kubernetes and AWS
--   🌱 Currently learning **Terraform, Kubernetes and AWS**
--   ⚡ Fun fact: I am a former professional chef 🔪
+-   💬 Ask me about **Terraform, Azure and AWS**
+-   🌱 I’m currently learning **Terraform, Kubernetes, Ansible, Azure and AWS**
+-   ⚡ Fun fact: **I have a passion for practicing sports and self-defense with Krav Maga.** 
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 <div> 
   <a href="https://www.linkedin.com/in/tiagos-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -32,4 +38,17 @@ I have tried to share my passion, knowledge, and experience throughout these yea
   <img src="https://github-readme-stats.vercel.app/api?username=tiagoslopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="tiagoslopes" width="400"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoslopes&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tiagoslopes" width="300"/>
+</p>
+
+<p align="center">
+ <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
+ <a href="AWS"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"></a>
+ <a href="LINUX"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000"></a>
+ <a href="DEBIAN"><img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=000000"></a>
+ <a href="KUBERNETES"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=3C93FF"></a>
+ <a href="TERRAFORM"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"></a>
+</p>
+
+ <p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
