@@ -26,8 +26,10 @@ I have tried to share my passion, knowledge, and experience throughout these yea
   <a href="https://www.instagram.com/unicastlab/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilvajunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="asilvajunior" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagoslopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="asilvajunior" width="400"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asilvajunior&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asilvajunior" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoslopes&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asilvajunior" width="300"/>
 </p>
